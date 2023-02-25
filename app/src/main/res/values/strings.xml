@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Metch Vegans</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hintNome">Nome</string>
+    <string name="hintEmail">E-mail</string>
+    <string name="biohint">Descreva sua Bio aqui!</string>
+    <string name="cidadeHint">Sua cidade</string>
+    <string name="tempoDeVeganHint">Vegano a quanto tempo?</string>
+    <string name="textSair">Sair da conta</string>
+    <string name="textBtn">Salvar Alterações</string>
+
+</resources>

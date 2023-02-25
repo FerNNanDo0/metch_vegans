@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "389221275021",
+    "project_id": "metchesvegan",
+    "storage_bucket": "metchesvegan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389221275021:android:8bc62307a3c2bbd2ce59c4",
+        "android_client_info": {
+          "package_name": "com.example.metch.vegans"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389221275021-t5cdcfrpduj86398tci1h6qlpulg69rf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.metch.vegans",
+            "certificate_hash": "df5f13bad1e180f05baaefbf7d1ee2b9ef44ab9f"
+          }
+        },
+        {
+          "client_id": "389221275021-cj3lr2pur46rf5cqa3t5r18pak8qcc0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpaxunUJ7ReY65YAFygSOK57f2wLGhP8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389221275021-cj3lr2pur46rf5cqa3t5r18pak8qcc0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/menu_navigation_bottom">
+
+
+    <item
+        android:id="@+id/itemMetch"
+        android:title="Metchs"
+        android:icon="@drawable/baseline_local_fire_department_24"
+        app:showAsAction="always" />
+
+    <item android:id="@+id/itemChat"
+        android:title="Chate"
+        android:icon="@drawable/baseline_textsms_24"
+        app:showAsAction="always" />
+
+    <item android:id="@+id/itemPerfilPerson"
+        android:title="Perfil"
+        android:icon="@drawable/baseline_person_24"
+        app:showAsAction="always" />
+
+</menu>
